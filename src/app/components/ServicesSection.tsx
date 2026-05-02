@@ -26,7 +26,7 @@ const services: Service[] = [
   tag: 'Most Popular',
   colSpan: 'md:col-span-2',
   accent: true,
-  image: "https://img.rocket.new/generatedImages/rocket_gen_img_1bc601403-1772212900522.png",
+  image: "/assets/images/same_day_restoration_hero.png",
   href: '/services/same-day-restorations'
 },
 {
