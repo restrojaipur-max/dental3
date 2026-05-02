@@ -24,7 +24,7 @@ const dentists = [
   speciality: 'Invisalign & Braces',
   experience: '12 years',
   education: 'University of Melbourne, MFDS RCS Ireland',
-  image: "https://img.rocket.new/generatedImages/rocket_gen_img_1a7889984-1763300946435.png",
+  image: "https://img.rocket.new/generatedImages/rocket_gen_img_179ebd6f2-1763294255544.png",
   tags: ['Invisalign', 'Orthodontics']
 },
 {
@@ -34,7 +34,7 @@ const dentists = [
   speciality: 'Whitening & Veneers',
   experience: '9 years',
   education: 'King\'s College London, GDC Registered',
-  image: "https://img.rocket.new/generatedImages/rocket_gen_img_1a7889984-1763300946435.png",
+  image: "https://img.rocket.new/generatedImages/rocket_gen_img_1dd0fe175-1763294912822.png",
   tags: ['Cosmetic', 'Veneers']
 },
 {
@@ -44,7 +44,7 @@ const dentists = [
   speciality: 'Children & Family Care',
   experience: '11 years',
   education: 'NUS, Diploma in Child Dental Health',
-  image: "https://img.rocket.new/generatedImages/rocket_gen_img_1e97479d4-1777636565789.png",
+  image: "https://img.rocket.new/generatedImages/rocket_gen_img_16461b1c1-1777693279713.png",
   tags: ['Paediatric', 'Family']
 }];
 

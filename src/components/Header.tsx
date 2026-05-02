@@ -19,8 +19,11 @@ const navItems: NavItem[] = [
   {
     label: 'Services',
     dropdown: [
-      { label: 'Same Day Restorations', href: '#services' },
-      { label: 'Teledentistry', href: '#services' },
+      { label: 'Same Day Restorations', href: '/services/same-day-restorations' },
+      { label: 'Teledentistry', href: '/services/teledentistry' },
+      { label: 'Teeth Whitening', href: '/services/teeth-whitening' },
+      { label: 'Invisalign', href: '/services/invisalign' },
+      { label: 'Dental Implants', href: '/services/dental-implants' },
     ],
   },
   {
